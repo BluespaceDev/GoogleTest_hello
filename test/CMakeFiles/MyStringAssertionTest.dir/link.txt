@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/MyStringAssertionTest.dir/MyStringAssertionTest.cpp.o -o MyStringAssertionTest.exe -Wl,--out-implib,libMyStringAssertionTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lgtest 
